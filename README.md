@@ -1,0 +1,2 @@
+# MontyHall
+A JavaScript project
